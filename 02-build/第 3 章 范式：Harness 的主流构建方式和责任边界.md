@@ -75,7 +75,7 @@ Harness 因而要把概率性的模型判断嵌入确定性的系统边界。模
 
 | 构建对象 | 开发阶段需要回答的问题 | 主要交付物 |
 | --- | --- | --- |
-| Agent Contract | Agent 为谁工作、目标是什么、允许和禁止什么 | 角色指令、任务输入输出和成功标准 |
+| ==Agent Contract== | Agent 为谁工作、目标是什么、允许和禁止什么 | 角色指令、任务输入输出和成功标准 |
 | Execution | 模型怎样循环、规划、等待、委派和结束 | Agent Loop、状态机、预算与 Verifier |
 | Context & State | 每轮看见什么，任务事实保存在何处 | Context Policy、Session / Task Schema、Workspace 与 Memory |
 | Capability | Agent 可以使用哪些方法和外部能力 | Tool Schema、MCP、Skill、Subagent 与能力目录 |
